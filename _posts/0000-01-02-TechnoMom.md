@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our econd slide!"
+title: "Welcome to our second slide!"
 ---
-Your text
+The art of life is to know how to enjoy a little and to endure much. -William Hazlitt
 Use the left arrow to go back!
